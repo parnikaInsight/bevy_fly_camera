@@ -1,4 +1,5 @@
 [![Crates.io](https://img.shields.io/crates/v/bevy_fly_camera)](https://crates.io/crates/bevy_fly_camera)
+Updated to Bevy 0.7.0
 
 # bevy-fly-camera
 
